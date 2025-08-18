@@ -14,6 +14,10 @@ Average Rating: Average customer rating for items sold (4 out of 5)
 
 Number of Items: Total count of different items sold (9K)
 
+# Blinkit Dashboard
+
+<img width="954" height="526" alt="Image" src="https://github.com/user-attachments/assets/d505ef53-52c8-4eb6-b411-aacb28f73256" />
+
 # Features
 Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
 
@@ -37,4 +41,3 @@ Medium-sized outlets in Tier 3 locations show the highest profitability
 
 Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
-<img width="954" height="526" alt="Image" src="https://github.com/user-attachments/assets/d505ef53-52c8-4eb6-b411-aacb28f73256" />
