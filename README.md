@@ -36,3 +36,5 @@ Fruits, vegetables, and snack foods are the top-selling categories
 Medium-sized outlets in Tier 3 locations show the highest profitability
 
 Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+
+<img width="954" height="526" alt="Image" src="https://github.com/user-attachments/assets/d505ef53-52c8-4eb6-b411-aacb28f73256" />
